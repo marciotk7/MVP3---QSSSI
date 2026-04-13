@@ -1,0 +1,5 @@
+Modelo,Acurácia,Precisão,Recall,F1-Score
+KNN,1.0,1.0,1.0,1.0
+Naive Bayes,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,1.0
+Árvore de Decisão,0.9,1.0,0.8,0.8888888888888888
